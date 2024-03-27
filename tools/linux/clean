@@ -1,0 +1,12 @@
+#!/bin/bash -e
+
+echo "Cleaning project...";
+
+rm -rfv tmp;
+rm -rfv dist;
+rm -rfv venv;
+
+find . -name "__pycache__" -prune -exec rm -rfv {} \;;
+find . -name "*.egg-info"  -prune -exec rm -rfv {} \;;
+
+echo "Project clean.";

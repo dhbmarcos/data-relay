@@ -1,0 +1,56 @@
+#!/bin/bash -e
+
+declare -p EXIT_SUCCESS &> /dev/null || readonly EXIT_SUCCESS=0
+declare -p EXIT_FAILURE &> /dev/null || readonly EXIT_FAILURE=1
+
+arguments=("$@")
+official=false
+
+for argument in "${arguments[@]}"
+do
+    if [ "$argument" == '--help' ]
+    then
+        echo "PyPI upload tool.";
+        echo;
+        echo "Usage:";
+        echo;
+        echo "  $0 [ --help | --official ]";
+        echo;
+        echo "  --help:";
+        echo "    Show this help.";
+        echo;
+        echo "  --official:";
+        echo "    Upload to official PyPI. Without this option, upload to PyPI Test.";
+        echo;
+        exit $EXIT_SUCCESS
+    fi;
+
+    if [ "$argument" == '--official' ]
+    then
+        official=true;
+    fi;
+done;
+
+
+echo "Packing project..."
+
+if [ "$(basename "$(pwd)")" != 'data-relay' ]
+then
+    echo "Run from root project directory.";
+    exit $EXIT_FAILURE;
+fi;
+
+source tools/linux/clean;
+source tools/linux/debian/install;
+source venv/bin/activate;
+
+venv/bin/python3 -m build;
+
+if $official
+then
+    venv/bin/python3 -m twine upload --repository pypi     --config-file halk4.pypirc dist/*;
+else
+    venv/bin/python3 -m twine upload --repository testpypi --config-file halk4.pypirc dist/*;
+fi;
+
+echo "Project updated in Python Package Index (Test).";
