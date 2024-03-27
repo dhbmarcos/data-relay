@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+echo "Generating technical documentation...";
+
+cp -fv readme.md  doc;
+cp -fv license.md doc;
+
+echo "Technical documentation generated.";
