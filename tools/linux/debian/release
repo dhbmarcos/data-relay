@@ -48,9 +48,9 @@ venv/bin/python3 -m build;
 
 if $official
 then
-    venv/bin/python3 -m twine upload --repository pypi     --config-file halk4.pypirc dist/*;
+    venv/bin/python3 -m twine upload --repository pypi     --config-file data-relay.pypirc dist/*;
 else
-    venv/bin/python3 -m twine upload --repository testpypi --config-file halk4.pypirc dist/*;
+    venv/bin/python3 -m twine upload --repository testpypi --config-file data-relay.pypirc dist/*;
 fi;
 
 echo "Project updated in Python Package Index (Test).";

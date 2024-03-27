@@ -10,7 +10,6 @@
 - Native encryption: encrypt, decrypt (AES 256 bits over RSA 2048 bits), sign and verify (RSA 2048 bits) data;
 - Network nodes defined by shared node list.
 
-
 ## Legend
 
 - The diagrams is conform SysML standard.
@@ -20,22 +19,29 @@
 - The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
 - The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
 
-
 # Main Use Case
 ![Main Use Case](data-relay-uc-main.svg)
 
+## Agent Features
 
-## Create Agent
+### Create Agent
 ![Create Agent](data-relay-act-create-agent.svg)
 
-
-## Import Agent
+### Import Agent
 ![Import Agent](data-relay-act-import-agent.svg)
 
+## Data Features
 
-## Import Data
+### Import Data
 ![Import Data](data-relay-act-import-data.svg)
 
-
-## Create Data
+### Create Data
 ![Create Data](data-relay-act-create-data.svg)
+
+## Internal Features
+
+### Encrypt
+![Encrypt](data-relay-act-encrypt.svg)
+
+### Identify
+![Identify](data-relay-act-identify.svg)
