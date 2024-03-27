@@ -45,3 +45,6 @@
 
 ### Identify
 ![Identify](data-relay-act-identify.svg)
+
+### Sign
+![Sign](data-relay-act-sign.svg)
