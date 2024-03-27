@@ -18,10 +18,16 @@ Simple data relay to implement web3.
 
 ## Current Status
 
-- Readiness: ![STRL undefined](https://gitlab.com/dhbmarcos/strl/-/raw/v0.7.1/undefined.svg)
+- Readiness: [![STRL undefined](https://gitlab.com/dhbmarcos/strl/-/raw/v0.7.1/undefined.svg)](https://dhbmarcos.gitlab.io/strl/)
 
 
-## License
+## Resources
+
+- Documentation: [Official Documentation](https://gitlab.com/dhbmarcos/data-relay/-/blob/main/doc/readme.md)
+- Issues: [Official Bug Tracker](https://gitlab.com/dhbmarcos/data-relay/-/issues)
+
+
+### License
 
 *Copyright 2024 D. H. B. Marcos*
 
@@ -32,7 +38,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ***THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.***
 
 
-## Credits
+### Credits
 
 2024 © D. H. B. Marcos.
 
