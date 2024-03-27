@@ -23,7 +23,7 @@ Simple data relay to implement web3.
 
 ## Resources
 
-- Documentation: [Official Documentation](https://gitlab.com/dhbmarcos/data-relay/-/blob/main/doc/readme.md)
+- Documentation: [Official Documentation](https://dhbmarcos.gitlab.io/data-relay)
 - Issues: [Official Bug Tracker](https://gitlab.com/dhbmarcos/data-relay/-/issues)
 
 
