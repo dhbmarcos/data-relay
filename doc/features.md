@@ -19,8 +19,15 @@
 - The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
 - The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
 
-# Main Use Case
+# Use Cases
+
+## Main Features
 ![Main Use Case](data-relay-uc-main.svg)
+
+## Data Deletion Prevention
+![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+
+# Activities
 
 ## Agent Features
 
@@ -37,6 +44,12 @@
 
 ### Create Data
 ![Create Data](data-relay-act-create-data.svg)
+
+### Delete Data
+![Encrypt](data-relay-act-delete-data.svg)
+
+### Protect Data
+![Identify](data-relay-act-protect-data.svg)
 
 ## Internal Features
 
