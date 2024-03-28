@@ -8,12 +8,12 @@
 ## Technical Information 
 
 - [Details](features-details.md)
-    - [Agent](agent/readme.md)
-    - [Data](data/readme.md)
-        - [Data Deletion Prevention](data/data-deletion-prevention/readme.md)
-    - [Crypto](crypto/readme.md)
+- [Agent](agent/readme.md)
+- [Data](data/readme.md)
+    - [Data Deletion Prevention](data/data-deletion-prevention/readme.md)
+- [Crypto](crypto/readme.md)
 - [Version Scheme](version.md)
-- [Diagrams Legend](diagrams-legend.md)
+- [Diagrams Legend](legend.md)
 
 ## Other Resources
 
