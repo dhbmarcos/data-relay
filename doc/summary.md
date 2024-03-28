@@ -13,6 +13,7 @@
     - [Data Deletion Prevention](data-deletion-prevention/readme.md)
     - [Crypto](crypto/readme.md)
 - [Version Scheme](version.md)
+- [Diagrams Legend](diagrams-legend.md)
 
 ## Other Resources
 

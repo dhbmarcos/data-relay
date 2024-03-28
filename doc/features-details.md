@@ -1,18 +1,9 @@
 # Data Relay
 
-## Legend
+## Main Features
 
-- The diagrams is conform SysML standard.
-- Sketched diagrams indicate view not implemented.
-- The thicker flow lines (double thickness) indicate preferred flow.
-- The dashed flow lines indicate dependency (depends on).
-- The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
-- The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
-
-## Use Cases
-
-### Main Features
 ![Main Use Case](data-relay-uc-main.svg)
 
-### Data Deletion Prevention
-![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+## Data Deletion Prevention
+
+![Main Use Case](data-deletion-prevention/data-relay-uc-data-deletion-prevention.svg)
