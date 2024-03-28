@@ -2,15 +2,16 @@
 
 ## Data Relay
 
-- [Introduction](readme.md)
-- [Features](features.md)
+- [Introduction to Data Relay](readme.md)
+- [Data Relay Features](features.md)
 
 ## Technical Information 
 
-- [Version Scheme](version.md)
+- [Data Relay Features Details](features-detais.md)
+- [Data Relay Version Scheme](version.md)
 
 ## Other Resources
 
-- [License](license.md)
+- [Data Relay License](license.md)
 - [Source Code](https://gitlab.com/dhbmarcos/data-relay)
 - [Issues](https://gitlab.com/dhbmarcos/data-relay/-/issues)
