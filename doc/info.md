@@ -1,6 +1,8 @@
-# Diagrams Legend
+# Documentation Definitions
 
-- The diagrams is conform SysML standard.
+The definition above are used in all documentation.
+
+- The diagrams are conform SysML standard (https://sysml.org/)
 - Sketched diagrams indicate view not implemented.
     
     ![](legend-not-implemented.svg)
