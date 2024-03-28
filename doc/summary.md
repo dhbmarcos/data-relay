@@ -7,7 +7,7 @@
 
 ## Technical Information 
 
-- [Data Relay Features Details](features-detais.md)
+- [Data Relay Features Details](features-details.md)
 - [Data Relay Version Scheme](version.md)
 
 ## Other Resources
