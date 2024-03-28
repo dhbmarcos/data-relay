@@ -9,3 +9,11 @@
 ## Import Agent
 
 ![Import Agent](act-import-agent.svg)
+
+## Read Agent
+
+![Read Agent](act-read-agent.svg)
+
+## Delete Agent
+
+![Delete Agent](act-delete-agent.svg)
