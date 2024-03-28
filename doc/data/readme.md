@@ -1,4 +1,4 @@
-# Data Relay
+# Data Features
 
 ## Legend
 
@@ -9,10 +9,14 @@
 - The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
 - The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
 
-## Use Cases
+## Import Data
 
-### Main Features
-![Main Use Case](data-relay-uc-main.svg)
+![Import Data](data-relay-act-import-data.svg)
 
-### Data Deletion Prevention
-![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+## Create Data
+
+![Create Data](data-relay-act-create-data.svg)
+
+## Read Data
+
+![Read Data](data-relay-act-read-data.svg)

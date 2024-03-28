@@ -2,16 +2,20 @@
 
 ## Data Relay
 
-- [Introduction to Data Relay](readme.md)
-- [Data Relay Features](features.md)
+- [Introduction](readme.md)
+- [Features](features.md)
 
 ## Technical Information 
 
-- [Data Relay Features Details](features-details.md)
-- [Data Relay Version Scheme](version.md)
+- [Details](features-details.md)
+    - [Agent](agent/readme.md)
+    - [Data](data/readme.md)
+    - [Data Deletion Prevention](data-deletion-prevention/readme.md)
+    - [Crypto](crypto/readme.md)
+- [Version Scheme](version.md)
 
 ## Other Resources
 
-- [Data Relay License](license.md)
+- [License](license.md)
 - [Source Code](https://gitlab.com/dhbmarcos/data-relay)
 - [Issues](https://gitlab.com/dhbmarcos/data-relay/-/issues)

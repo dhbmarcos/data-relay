@@ -1,4 +1,4 @@
-# Data Relay
+# Agent Features
 
 ## Legend
 
@@ -9,10 +9,10 @@
 - The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
 - The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
 
-## Use Cases
+## Create Agent
 
-### Main Features
-![Main Use Case](data-relay-uc-main.svg)
+![Create Agent](data-relay-act-create-agent.svg)
 
-### Data Deletion Prevention
-![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+## Import Agent
+
+![Import Agent](data-relay-act-import-agent.svg)

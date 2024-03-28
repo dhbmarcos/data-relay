@@ -1,6 +1,4 @@
-# Data Relay
-
-## Legend
+# Legend
 
 - The diagrams is conform SysML standard.
 - Sketched diagrams indicate view not implemented.
@@ -9,10 +7,17 @@
 - The blocks with shadow and thicker edges (double thickness) indicate input/output interfaces.
 - The blocks even thicker edges (quadruple thickness) indicate default activity or link to other diagram.
 
-## Use Cases
+# Use Case
 
-### Main Features
-![Main Use Case](data-relay-uc-main.svg)
+![Data Deletion Prevention](data-relay-uc-data-deletion-prevention.svg)
 
-### Data Deletion Prevention
-![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+# Activities
+
+## Protect Data
+
+![Protect Data](data-relay-act-protect-data.svg)
+
+## Delete Data
+
+![Delete Data](data-relay-act-delete-data.svg)
+

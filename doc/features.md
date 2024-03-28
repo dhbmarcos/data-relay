@@ -1,4 +1,6 @@
-# Resume
+# Data Relay
+
+## Resume
 
 - Views based in collection of ontological path defined by user;
 - Assign ontological paths to files;
@@ -10,8 +12,10 @@
 - Native encryption: encrypt, decrypt (AES 256 bits over RSA 2048 bits), sign and verify (RSA 2048 bits) data;
 - Network nodes defined by shared node list.
 
-# Main Features
+## Main Features
+
 ![Main Use Case](data-relay-uc-main.svg)
 
-# Data Deletion Prevention
-![Main Use Case](data-relay-uc-data-deletion-prevention.svg)
+## Data Deletion Prevention
+
+![Main Use Case](data-deletion-prevention/data-relay-uc-data-deletion-prevention.svg)
