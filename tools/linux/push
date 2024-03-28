@@ -1,0 +1,19 @@
+#!/bin/bash
+
+declare -p EXIT_SUCCESS &> /dev/null || readonly EXIT_SUCCESS=0
+declare -p EXIT_FAILURE &> /dev/null || readonly EXIT_FAILURE=1
+
+echo "Update remote repositories...";
+
+if [ -n "$(git status --short)" ]
+then
+    git status;
+    exit $EXIT_FAILURE;
+fi;
+
+git push --all  gitlab;
+git push --all  github;
+git push --tags gitlab;
+git push --tags github;
+
+echo "Remote repositories updated.";
