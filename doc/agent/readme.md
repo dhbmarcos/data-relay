@@ -1,9 +1,11 @@
 # Agent
 
+![Agent](uc-agent.svg)
+
 ## Create Agent
 
-![Create Agent](data-relay-act-create-agent.svg)
+![Create Agent](act-create-agent.svg)
 
 ## Import Agent
 
-![Import Agent](data-relay-act-import-agent.svg)
+![Import Agent](act-import-agent.svg)

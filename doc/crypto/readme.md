@@ -1,17 +1,19 @@
 # Crypto
 
+![Crypto](uc-crypto.svg)
+
 ## Identify
 
-![Identify](data-relay-act-identify.svg)
+![Identify](act-identify.svg)
 
 ## Encrypt
 
-![Encrypt](data-relay-act-encrypt.svg)
+![Encrypt](act-encrypt.svg)
 
 ## Decrypt
 
-![Decrypt](data-relay-act-decrypt.svg)
+![Decrypt](act-decrypt.svg)
 
 ## Sign
 
-![Sign](data-relay-act-sign.svg)
+![Sign](act-sign.svg)
