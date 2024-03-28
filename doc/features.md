@@ -45,6 +45,9 @@
 ### Create Data
 ![Create Data](data-relay-act-create-data.svg)
 
+### Read Data
+![Read Data](data-relay-act-read-data.svg)
+
 ### Delete Data
 ![Encrypt](data-relay-act-delete-data.svg)
 
