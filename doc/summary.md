@@ -10,10 +10,8 @@
 - [Information](info.md)
 - [Agent](agent/readme.md)
 - [Data](data/readme.md)
-    - [Data Deletion Prevention](data/data-deletion-prevention/readme.md)
 - [View](view/readme.md)
 - [Crypto](crypto/readme.md)
-- [Version Scheme](version.md)
 
 ## Other Resources
 

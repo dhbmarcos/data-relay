@@ -16,10 +16,13 @@
 
 ## Data Deletion Prevention
 
-### Delete Data
-
-![Delete Data](data-deletion-prevention/act-delete-data.svg)
+![Data Deletion Prevention](uc-data-deletion-prevention.svg)
 
 ### Protect Data
 
-![Protect Data](data-deletion-prevention/act-protect-data.svg)
+![Protect Data](act-protect-data.svg)
+
+### Delete Data
+
+![Delete Data](act-delete-data.svg)
+
