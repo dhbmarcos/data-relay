@@ -1,6 +1,6 @@
 # Data
 
-![Import Data](uc-data.svg)
+![Data](uc-data.svg)
 
 ## Import Data
 

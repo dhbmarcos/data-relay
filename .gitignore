@@ -1,4 +1,5 @@
 venv
 *.pypirc
+*.crswap
 datarelay.egg-info
 dist
