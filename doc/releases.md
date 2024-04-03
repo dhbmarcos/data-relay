@@ -6,6 +6,8 @@
  - The data will not be encrypted.
  - The connection and data transmission will use local file system.
 
+See more at https://gitlab.com/dhbmarcos/data-relay/-/milestones/1
+
 ![First Release](uc-release1.svg)
 
 ### Troubleshooting
