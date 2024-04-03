@@ -8,6 +8,7 @@
 ## Technical Information 
 
 - [Information](info.md)
+- [Network](network/readme.md)
 - [Agent](agent/readme.md)
 - [Data](data/readme.md)
 - [View](view/readme.md)
